@@ -1,0 +1,17 @@
+From:     Gary Ebert
+To:       K1DOM.K1PO2(IKELTZ), K1DOM.K1PO1(mdavis)
+Date:     Friday, March 19, 1999 7:11:03 AM
+Subject:  Glide slope calculation in the USL. -Reply
+
+I have attached the stored procedures that I am using in the ULS version of 
+the antenna structure system.  These stored procs are slight modifications of 
+the stored procs that are used in the current Towair system.
+
+Gary Ebert  
+
+>>> Michael Davis 03/17/99 01:34pm >>>
+Ira,
+Can you send me the code for the algorithm that calculates if a tower is 
+within the glide slope distance from an airport.
+Thanks,
+Mike
